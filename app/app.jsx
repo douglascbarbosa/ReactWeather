@@ -7,8 +7,11 @@ var About = require('About');
 var Examples = require('Examples');
 
 //Load foundation
-
 require('style!css!foundation-sites/dist/foundation.min.css');
+
+//App css
+
+require('style!css!applicationStyles');
 
 $(document).foundation();
 
