@@ -26636,7 +26636,7 @@
 			React.createElement(
 				'h3',
 				null,
-				'Examples component'
+				'Examples'
 			),
 			React.createElement(
 				'p',
